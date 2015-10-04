@@ -13,4 +13,4 @@ Bla bla bla
 
 ## About Stephanie:
 
-Some info about Stephanie here
+Some info about Stephanie here.
