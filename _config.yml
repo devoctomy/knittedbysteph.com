@@ -4,9 +4,9 @@ host: 0.0.0.0
 
 # Site wide configuration
 
-title: Site Title
+title: Knitted by Steph
 locale: en_US
-description: Describe your website here.
+description: Where just about anything can be knitted
 logo: site-logo.png
 search: true
 url: 
