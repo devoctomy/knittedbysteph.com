@@ -1,0 +1,26 @@
+language: ruby
+
+rvm:
+- 2.2.1
+
+before_script:
+- chmod +x ./script/cibuild
+
+script: "./script/cibuild"
+
+branches:
+  only:
+  - staging
+  - master
+
+deploy:
+  provider: s3
+  access_key_id: AKIAJ5QHVYAIUFE23NKQ
+  secret_access_key:
+    secure: arse
+  bucket: "www.knittedbysteph.com"
+  local_dir: _site
+  skip_cleanup: true
+  acl: public_read
+  on:
+    branch: master
