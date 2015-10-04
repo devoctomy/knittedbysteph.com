@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+
+- title: Shop
+  url: https://www.etsy.com/uk/shop/KnittedBySteph
+  
+- title: Tags
+  url: /tags/
+
+- title: Search
+  url: /search/
