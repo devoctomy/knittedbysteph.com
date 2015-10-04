@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title: Blog
+excerpt: "What's going on in the world of knittedbysteph?"
 search_omit: true
 ---
 
