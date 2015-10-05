@@ -10,16 +10,16 @@ script: "./script/cibuild"
 
 branches:
   only:
-  - master
+  - staging
 
 deploy:
   provider: s3
   access_key_id: AKIAJ5QHVYAIUFE23NKQ
   secret_access_key:
     secure: hHXGihTNPhQ5Ci9TuqQhMYLVjWrScDC34I8E2CGD7knvGGoy5/WIHq+M/ZyKIhgT3vvOOWONjTFQIuGUtTC4jfAziS+7z22K/NIsBacKprCWrwR+FGYraaYLbTv4qI0ON0krt2FuijLISDcX8sOqmuwPQBn6Rn+bO9EsIvgZO9DRxGhvDqtG/zmc5ualSt4vtixx0PVrng5U1BMBVC1laJ6XBzamq1l3PL99HMuj9w952zg7m5RcSqc4k3Dh1OL4BVre51zGOaCqA6NioRCJ3um4AaAtk4f8r0NeCx4G2N+6LMdSjSrV9SSCbq24/2EiTeiKxLIaqsJ8593oKgkHJ3xdrccSEK1ogs6tcT0VipGPO81nhlqavm3ffp5eUqzEbe0gT++4rO69aZSQqFNwsWnh17daJfb0mDG/ZmJhLLmSEVlUnmEt8jPEt9JVllMEWuj86o3qweEY+6P8aMe464e2ayDtgrmdhX6EAsTooT2KiWngIsx5cyfZ6/fHCKLGevNeF3Yj44CKz5eLMvlFxm44HucKJLDhWyvsbT0u6aBzRO+1J1ztbmn42D2nkRY1YT9ExtoKbDUiTPs9DIMxW+I0Bs3PxXE9XYCic5fPRrneFDImnwMXtOWqGafRdli/ICe3N2KpMnCG1QSMgfcDaNtB6QcZEZiaxi1ckvMt57o=
-  bucket: www.knittedbysteph.com
+  bucket: www-knittedbysteph-com
   local_dir: _site
   skip_cleanup: true
   acl: public_read
   on:
-    branch: master
+    branch: staging
