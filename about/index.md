@@ -13,9 +13,7 @@ image:
 
 I am a 59-year-old mother of 5, nan of 10, who has spent the last 40 years almost constantly knitting, clothes and toys not only for the family but also friends.
 
-Around 4 years ago, after designing and making a few mascots, ( one for a lady who stopped me in the street to ask if I was “the knitting lady”)  my son Nick suggested my skill was good enough to go further.
-
-After a few months of trying different things I finally had some patterns ready.
+Around 4 years ago, after designing and making a few mascots, ( one for a lady who stopped me in the street to ask if I was “the knitting lady”)  my son Nick suggested my skill was good enough to go further.  After a few months of trying different things I finally had some patterns ready.
 
 Nick, (Solutions Architect) helped me with setting up my Etsy shop etc. so I could get my patterns available to everyone.
 Going back to the lady who stopped me in the street to explain the significance, She asked me if I could knit a policeman doll for her son for a Christmas gift. I asked her what sort of size she wanted, then went home to start working out how to start the project.
