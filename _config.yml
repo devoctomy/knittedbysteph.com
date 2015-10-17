@@ -9,7 +9,7 @@ locale: en_US
 description: Where just about anything can be knitted
 logo: site-logo.png
 search: true
-url: http://www.knittedbysteph.com 
+url: http://www-knittedbysteph-com.s3-website-eu-west-1.amazonaws.com
 
 # Jekyll configuration
 
