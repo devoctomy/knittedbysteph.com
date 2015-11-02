@@ -47,4 +47,4 @@ I decided to knit the Jesus figure sewn inside the swaddling as the size was too
 
 The pattern is now in my Etsy shop so I'm now just waiting to see if anyone likes it enough to try it.
 
-![Knitted Nativity Scene Patter on Etsy Shop](https://www.etsy.com/uk/listing/254124429/knitted-nativity-scene-pdf-pattern)
+[Knitted Nativity Scene Patter on Etsy Shop](https://www.etsy.com/uk/listing/254124429/knitted-nativity-scene-pdf-pattern)
