@@ -52,8 +52,8 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics: UA-69539327-2
     verify:
     ad-client:
     ad-slot:
+    tag-manager: GTM-PQ32BM
   bing-verify:
