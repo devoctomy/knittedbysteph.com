@@ -3,7 +3,7 @@ layout: post
 title: "Air Ambulance"
 excerpt: "New Addition To My Uniformed Characters"
 categories: articles
-tags: [patterns, work in progress]
+tags: [patterns, work in progress, uniform, character]
 author: steph
 comments: true
 share: true
