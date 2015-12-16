@@ -38,7 +38,7 @@ I thought I would use this as a chance to use some new wool, as normal wool bein
 
 ![Hair with normal wool](/images/posts/ryder-hair-1.jpg)
 
-The wool that I used is {name of wool here}.  It's a very soft wool that looks very *hair-like*.  The hair effect also helps to hide the stitches, so it looks very natural as you can see below.
+The wool that I used is James C Brett - Faux Fur.  It's a very soft wool that looks very *hair-like*.  The hair effect also helps to hide the stitches, so it looks very natural as you can see below.
 
 ![Hair with hairy wool](/images/posts/ryder-hair-2.jpg)
 
